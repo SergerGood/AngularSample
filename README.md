@@ -33,6 +33,7 @@ ng serve --open
 ng generate component heroes
 
 ## Flat puts the file in src/app instead of its own folder
+
 ng generate module app-routing --flat --module=app
 
 npm install angular-in-memory-web-api --save
